@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{3}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{3}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {1.3}Our Work}{4}{subsection.0.1.3}%
+\contentsline {section}{\numberline {2}Assumptions and Explanations}{4}{section.0.2}%
+\contentsline {section}{\numberline {3}Notations}{5}{section.0.3}%
+\contentsline {section}{\numberline {4}Model Establishment and Solution}{5}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}Volterra Modeling Based on Prey-Predator}{5}{subsection.0.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}The establishment of model}{5}{subsubsection.0.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Model-based prediction}{7}{subsubsection.0.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Further Model Analysis}{9}{subsection.0.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Advantages and disadvantages associated with adjustments to the adaptive sex ratio}{9}{subsubsection.0.4.2.1}%
+\contentsline {subsection}{\numberline {4.3}Expanding the model to include many species}{12}{subsection.0.4.3}%
+\contentsline {subsection}{\numberline {4.4}Modified logistic modeling}{12}{subsection.0.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Quantitative prediction using adjusted models}{13}{subsubsection.0.4.4.1}%
+\contentsline {subsection}{\numberline {4.5}Explore the advantages offered to other species.}{16}{subsection.0.4.5}%
+\contentsline {section}{\numberline {5}Sensitivity Analysis and Stability Analysis}{18}{section.0.5}%
+\contentsline {subsection}{\numberline {5.1}Sensitivity analysis of the model for the producers' natural growth rate}{18}{subsection.0.5.1}%
+\contentsline {subsection}{\numberline {5.2}Model sensitivity analysis of the initial population size of the lamprey}{19}{subsection.0.5.2}%
+\contentsline {subsection}{\numberline {5.3}Model sensitivity analysis of the environmental carrying capacity of lamprey populations}{19}{subsection.0.5.3}%
+\contentsline {section}{\numberline {6}Strengths and Weaknesses}{20}{section.0.6}%
+\contentsline {subsection}{\numberline {6.1}Strengths}{20}{subsection.0.6.1}%
+\contentsline {subsection}{\numberline {6.2}Weaknesses}{20}{subsection.0.6.2}%
+\contentsline {section}{References}{21}{section.0.7}%
+\contentsfinish 
